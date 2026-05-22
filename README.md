@@ -49,5 +49,5 @@ ________________________________________
 •	Deployment as a web application
 ________________________________________
 👨‍💻 Author
-Pranav Garud
+Aman
 Intern – Codec Technologies
